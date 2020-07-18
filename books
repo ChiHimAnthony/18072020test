@@ -1,3 +1,17 @@
 </html>
 <ui>
-<li
+<li>Title: HTML and CSS</li>
+<li>Author: Jon Duckett</li>
+<li>ISBN: 9781118008188</li>
+
+<li>Title: JavaScript and jQuery</li>
+<li>Author: Jon Duckett</li>
+<li>ISBN: 9781118531648</li>
+
+<li>Title: Head First HTML and CSS</li>
+<li>Author: Elisabeth Robson and Eric Freeman</li>
+<li>ISBN: 9780596159900</li>
+
+<li>Title: Digital Minimalism</li>
+<li>Author: Cal Newport</li>
+<li>ISBN:  9780241341131</li>
